@@ -1,0 +1,18 @@
+## wiko-user 4.4.2 KOT49H 4 release-keys
+- Manufacturer: wiko
+- Platform: 
+- Codename: wiko
+- Brand: WIKO
+- Flavor: user
+- Release Version: 4.4.2
+- Id: KOT49H
+- Incremental: 4
+- Tags: release-keys
+- CPU Abilist: 
+- A/B Device: false
+- Locale: undefined
+- Screen Density: undefined
+- Fingerprint: WIKO/s5501/s5501:4.4.2/KOT49H/:user/release-keys
+- OTA version: 
+- Branch: wiko-user-4.4.2-KOT49H-4-release-keys
+- Repo: wiko_wiko_dump
